@@ -2,6 +2,8 @@ const isPrintableChar = (str) => {
   return str.length === 1 && str.match(/^\S$/);
 };
 
+// Test Comment
+
 export default function Dropdown(toggle, menu) {
   this.toggle = toggle;
   this.menu = menu;
