@@ -5,3 +5,8 @@ node_modules/
 *.DS_Store
 coverage/
 .idea/
+
+# Ignore vim swap files
+*~
+*.swp
+*.swo
