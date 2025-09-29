@@ -1,12 +1,12 @@
 {
   "name": "September 2025 Project",
   "author": "Abe B.",
-  "version": "4.10.3",
+  "version": "4.10.4",
   "api_version": 4,
   "default_locale": "en-us",
   "settings": [
 {
-      "label": "header_text_group_label",
+      "label": "Header Text",
       "variables": [
         {
           "identifier": "header_text",
