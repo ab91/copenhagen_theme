@@ -1,18 +1,18 @@
 {
   "name": "September 2025 Project",
   "author": "Abe B.",
-  "version": "4.10.4",
+  "version": "4.10.5",
   "api_version": 4,
   "default_locale": "en-us",
   "settings": [
 {
-      "label": "Header Text",
+      "label": "Header Data Group",
       "variables": [
         {
           "identifier": "header_text",
           "type": "text",
           "description": "The Title of the Help Center displayed on the Header",
-          "label": "header_text_label",
+          "label": "Header Text",
           "value": "Frequently Asked Questions"
         }
       ]
